@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/magpassion_mp_fafree",
+    "name": "OpenMageModuleFostering\/magpassion_mp_fafree",
     "type": "magento-module",
     "license": "OSL-3.0",
     "homepage": "",
     "description": "free magento fashion theme mp_fafree is one of free magento themes by MagPassion",
     "authors": [
-    {
-        "name": "MagPassion",
-        "email": "magentopassion@gmail.com"
-    }
-],
+        {
+            "name": "MagPassion",
+            "email": "magentopassion@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
